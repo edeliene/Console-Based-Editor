@@ -5,7 +5,7 @@ This project demonstrates core concepts in data structures, string manipulation,
 
 ---
 
-## 📌 Overview
+## Overview
 
 This editor operates entirely in the terminal using text commands instead of a graphical interface or real-time key detection.
 
@@ -13,7 +13,7 @@ It supports multi-line editing, cursor navigation, word-level operations, and ba
 
 ---
 
-## ✨ Features
+## Features
 
 ### Cursor Movement
 - `h` / `l` → move left / right
@@ -74,7 +74,7 @@ python editor.py
 
 ---
 
-## 🧱 How It Works
+## How It Works
 
 The editor is built around three main components:
 
@@ -93,7 +93,7 @@ This design simulates how a text editor manages its internal state while remaini
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 The current version of the editor has the following limitations:
 
@@ -105,7 +105,7 @@ The current version of the editor has the following limitations:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome. Feel free to:
 
