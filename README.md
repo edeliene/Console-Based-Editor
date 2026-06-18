@@ -105,19 +105,6 @@ The current version of the editor has the following limitations:
 
 ---
 
-## 🔮 Future Improvements
-
-Potential enhancements for future versions include:
-
-- Add file I/O support for opening and saving text files
-- Implement an undo/redo stack
-- Improve word boundary detection using regular expressions
-- Add search functionality
-- Support real-time key input through libraries such as `curses`
-- Introduce editing modes similar to Vim (Normal Mode, Insert Mode, etc.)
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome. Feel free to:
